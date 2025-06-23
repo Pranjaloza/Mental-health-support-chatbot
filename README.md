@@ -42,9 +42,9 @@ streamlit run mental_health_chatbot.py
 ## 🗃️ Dataset
 The dataset contains real-world supportive conversations, formatted like:
 
-<HUMAN>: I'm feeling down.
+ <HUMAN>: I'm feeling down.
 
-<ASSISTANT>: I'm really sorry to hear that. You're not alone—I'm here for you.
+ <ASSISTANT>: I'm really sorry to hear that. You're not alone—I'm here for you.
 
 Only answers longer than 30 characters are used to ensure meaningful responses.
 ---
