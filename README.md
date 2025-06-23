@@ -45,16 +45,20 @@ The dataset contains real-world supportive conversations, formatted like:
 <HUMAN>: I'm feeling down.
 <ASSISTANT>: I'm really sorry to hear that. You're not alone—I'm here for you.
 Only answers longer than 30 characters are used to ensure meaningful responses.
-
 ---
 
+---
 ## 🧠 Technologies Used
 
 - sentence-transformers for semantic similarity
 - streamlit for UI and app hosting
 - torch for tensor-based similarity calculations
 - sqlite3 for simple backend storage of chat logs
+---
+
+---
 
 ## 📬 Contact
 Built with 💙 by Pranjal Oza
+
 📧 Reach out for suggestions 
