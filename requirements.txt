@@ -1,4 +1,7 @@
 streamlit
 pandas
 sentence-transformers
+scipy
+numpy
+transformers
 torch
