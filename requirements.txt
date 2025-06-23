@@ -1,7 +1,5 @@
+python==3.10.13
 streamlit
 pandas
-sentence-transformers
-scipy
-numpy
-transformers
-torch
+torch==2.1.0
+sentence-transformers==2.2.2
