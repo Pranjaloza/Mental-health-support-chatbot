@@ -18,7 +18,7 @@ An AI-powered mental health conversational chatbot built using **Streamlit** and
 
 ## 🌐 Live Demo
 
-🚀 **[Click here to try it live on Streamlit Cloud]([https://mental-health-chatbot.streamlit.app](https://mentalhealthchatbot-65rjzfdlpbvfhmbhmd24kj.streamlit.app/))**
+🚀 **([Click here to try it live on Streamlit Cloud]**(https://mentalhealthchatbot-65rjzfdlpbvfhmbhmd24kj.streamlit.app/))
 
 ---
 ---
